@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Blog开始]]></title>
-    <url>%2F2019%2F04%2F12%2FFirstBlog%2F</url>
-    <content type="text"><![CDATA[千辛万苦总算是把自己的第一个博客给建好了，教程什么的就不写了，网上都有，而且我也不是个写文章水平特别高的人，当然如果专门问我的话我还是会告诉你怎么办的。 这是我的第一篇博客，目的有两个：一是说明一下我会用这个博客来写什么东西；二是熟悉一下MD的各种语法︿(￣︶￣)︿，接下来我就会在说明的过程中运用MD的各种语法，所以可能简单一个说明也会显得有点浮夸。 博客说明说明正如博客名和博客介绍的那样，这是个什么鬼都写的博客，以ACGN方面为主，有可能写某一个游戏的攻略，也有可能写某个漫画或者动漫或者小说的观后感，时不时还会写一些安利。除了这些，我也会写一些新学会的比较有感触的技术，毕竟也是学这行的，不然也就不会弄出这个博客了。 补充所以这并不是一个像其他大佬那样有巨多硬核内容的博客，这只是一个想写什么写什么图自己开心的博客，当然不保证有可能也有硬核内容的产出 总结最后来一波MD语法轰炸： 这&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自由♂&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;的博客,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎来评论。]]></content>
-      <categories>
-        <category>开始</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F04%2F10%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
